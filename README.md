@@ -1,4 +1,6 @@
 # CUDA-accelerated-Perlin-Noise-POC
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4430682.svg)](https://doi.org/10.5281/zenodo.4430682)
+
 ## Installation
 Code was written for Python 3.8.\
 Install [PyTorch](https://pytorch.org/get-started/locally/).\
