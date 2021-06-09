@@ -1,0 +1,26 @@
+{
+    "description": "<p>Command-line tool for benchmarking CPU vs CUDA perlin noise performance and for generating 2D and 3D perlin noise terrain visualizations.</p>", 
+    "license": "MIT", 
+    "title": "martinkozle/CUDA-accelerated-Perlin-Noise-POC: Release v1.3", 
+    "version": "v1.3", 
+    "upload_type": "software", 
+    "publication_date": "2021-06-09", 
+    "creators": [
+        {
+            "name": "Martin Popovski"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/martinkozle/CUDA-accelerated-Perlin-Noise-POC/tree/v1.3", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.4430681", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
