@@ -1,3 +1,6 @@
+numpy
 pyperlin
 matplotlib
 tqdm
+plotly
+kaleido
