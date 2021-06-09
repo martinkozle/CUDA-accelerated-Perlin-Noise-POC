@@ -1,7 +1,7 @@
 # CUDA-accelerated-Perlin-Noise-POC
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4430681.svg)](https://doi.org/10.5281/zenodo.4430681)
 
-Console utility for benchmarking CPU vs CUDA perlin noise performance and for generating 2D and 3D perlin noise terrain visualizations.
+Command-line tool for benchmarking CPU vs CUDA perlin noise performance and for generating 2D and 3D perlin noise terrain visualizations.
 
 ## Installation
 Code was written for Python 3.8.  
